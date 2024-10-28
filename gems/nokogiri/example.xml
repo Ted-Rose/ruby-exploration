@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Data>
+  <Node>
+    <Element Type="Boom">He's on fire!</Element>
+  </Node>
+  <Node>
+    <Element Type="Shaka">Jams it in!</Element>
+  </Node>
+  <Node>
+    <Element Type="Laka">Razzle Dazzle!</Element>
+  </Node>
+</Data>

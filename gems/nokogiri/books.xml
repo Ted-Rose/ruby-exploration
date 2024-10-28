@@ -1,0 +1,17 @@
+<Library>
+  <Book id="1" genre="Fiction">
+    <Title>The Great Gatsby</Title>
+    <Author>F. Scott Fitzgerald</Author>
+    <Published>1925</Published>
+  </Book>
+  <Book id="2" genre="Science Fiction">
+    <Title>Dune</Title>
+    <Author>Frank Herbert</Author>
+    <Published>1965</Published>
+  </Book>
+  <Book id="3" genre="Fantasy">
+    <Title>The Hobbit</Title>
+    <Author>J.R.R. Tolkien</Author>
+    <Published>1937</Published>
+  </Book>
+</Library>

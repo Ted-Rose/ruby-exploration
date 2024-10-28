@@ -1,0 +1,38 @@
+<Transactions>
+  <Transaction id="T001" type="Credit">
+    <Amount currency="USD">1500.00</Amount>
+    <Date>2023-10-01</Date>
+    <Sender>
+      <Name>John Doe</Name>
+      <Account>123456789</Account>
+    </Sender>
+    <Receiver>
+      <Name>Jane Smith</Name>
+      <Account>987654321</Account>
+    </Receiver>
+  </Transaction>
+  <Transaction id="T002" type="Debit">
+    <Amount currency="EUR">500.00</Amount>
+    <Date>2023-10-02</Date>
+    <Sender>
+      <Name>Alice Brown</Name>
+      <Account>234567890</Account>
+    </Sender>
+    <Receiver>
+      <Name>Bob White</Name>
+      <Account>876543210</Account>
+    </Receiver>
+  </Transaction>
+  <Transaction id="T003" type="Credit">
+    <Amount currency="GBP">750.00</Amount>
+    <Date>2023-10-03</Date>
+    <Sender>
+      <Name>Charlie Green</Name>
+      <Account>345678901</Account>
+    </Sender>
+    <Receiver>
+      <Name>Daisy Blue</Name>
+      <Account>765432109</Account>
+    </Receiver>
+  </Transaction>
+</Transactions>
